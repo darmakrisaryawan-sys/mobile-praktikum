@@ -9,14 +9,42 @@ Darma Krisaryawan / akun GitHub: darmakrisaryawan-sys
 ## Status
 Proyek awal perkuliahan
 
-This project is a starting point for a Flutter application.
+# Proyek Pemrograman Mobile
 
-A few resources to get you started if this is your first Flutter project:
+## Pengembang
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Darma Krisaryawan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Akun GitHub: darmakrisaryawan-sys
+
+## Status
+
+Proyek awal perkuliahan
+
+## Tujuan
+
+Aplikasi ini dibuat sebagai proyek pembelajaran pemrograman berbasis mobile menggunakan Flutter. Proyek ini digunakan untuk mempelajari dasar-dasar pembuatan aplikasi mobile, struktur proyek Flutter, serta penggunaan Git dan GitHub dalam pengelolaan versi proyek.
+
+## Rencana Fitur
+
+Tiga fitur yang direncanakan untuk dikembangkan pada aplikasi ini adalah:
+
+1. Counter
+   Menampilkan nilai angka yang dapat bertambah ketika pengguna menekan tombol `+`.
+
+2. Tampilan Informasi Aplikasi
+   Menampilkan informasi sederhana mengenai aplikasi dan pengembang pada halaman utama.
+
+3. Pengembangan Interaksi Pengguna
+   Mengembangkan interaksi pada aplikasi agar pengguna dapat melakukan aksi melalui komponen antarmuka yang tersedia.
+
+## Cara Menjalankan
+
+Pastikan Flutter sudah terpasang dan perangkat atau emulator sudah tersedia.
+
+### 1. Mengambil dependency
+
+Jalankan perintah berikut pada terminal di folder utama proyek:
+
+```bash
+flutter pub get
